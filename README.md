@@ -19,3 +19,4 @@ Familiarize yourself with the existing code. Then, start passing the `person` te
 ```
 npm test src/person-test.js
 ```
+Timely test
